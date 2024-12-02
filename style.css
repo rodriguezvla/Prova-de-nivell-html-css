@@ -1,0 +1,152 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    align-items: center;
+  }
+  .menu {
+    float: right;
+    margin-left: 10px;
+  }
+  
+  .logo {
+    float: left;
+    margin-right: 10px;
+  }
+  
+
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  header h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  header p {
+    color: #555;
+  }
+  
+  .join-now {
+    background-color: #275d6b;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .PrimeraSection {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .hero-images {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+  }
+  
+  .margen {
+    margin: 0 10px;
+  }
+
+  .imagen-izquierda {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .imagen-derecha {
+    float: right;
+    margin-left: 20px;
+  }
+  
+  .wellbeing {
+    text-align: center;
+    background-color: #f0f8ff;
+    padding: 20px;
+  }
+  
+  .wellbeing h2 {
+    margin-bottom: 20px;
+    font-size: 1.8em;
+  }
+  
+  .icons {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .icon-block {
+    width: 45%;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .fresh-produce {
+    padding: 20px;
+  }
+  
+  .fresh-produce .content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .fresh-produce img {
+    width: 100%;
+    max-width: 600px;
+    border-radius: 10px;
+  }
+  
+  .fresh-produce ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+  
+  .fresh-produce ul li {
+    margin-bottom: 10px;
+    padding: 5px;
+    background: #f9f9f9;
+    border-radius: 5px;
+  }
+  ul li {
+    margin-bottom: 5px;
+  }
+  
+  ul li img {
+    width: 20px;
+    height: 20px;
+    transform: scale(0.1);
+  }
+  
+  ul li span {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  footer {
+    background-color: #275d6b;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #275d6b;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  .footeraling {
+    float: left;
+  }
+  .footeralingdos {
+    float: right;
+  }
